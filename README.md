@@ -1,33 +1,70 @@
-# Splendor_for_visitors
 
-Project creation year: 2021-2022
+# Splendor game
 
---English version--
+The purpose of this project was to make an app representing the Splendor game using the Java principles.
 
-Here is the whole java project which is supposed to be an adaptation of the famous game called "Splendor".
-It has been done in colloboration with one of my classmate called Dylan DejesusMilitar.
+Among a two dev team, we had to write a game following the real rules from the Splendor boardgame using the Java language.
 
-You can find all the files that have been created by Us here.
-You can also find a zip which contains the whole project with the respect of the tree form.
-This file is named "Splendor_full_project.zip".
-There's also a ".jar" which is a fast way of playing the game. You can find it into the zip file.
+We had more than 2 months in addition to our studies to create a game with many play modes :
 
-You can do a party in a graphic mode or a console mode.
-You just have to follow what is explained in the user manual in order to play correctly a party.
+- User vs User
+- User vs AI
 
-You can also watch a demo video thanks to the file called "Partie_démo_Splendor_v_01_08_22.mp4".
+Moreover, we had two ways of display to implement :
 
---Version française--
+- ASCII art display in the console
+- Graphical interface (thanks to the Zen5 lib)
 
-Ce projet est une adaptation en java du célèbre jeu "splendor".
-Cela a été fait en collaboration avec un de mes camarades de classe : Dylan DeJesusMilitar.
 
-Vous pouvez trouver tous les fichiers qui ont été utilisé par notre binôme ici.
-Vous pouvez aussi trouver un fichier "zip" qui contient le proejt dans son intégralité avec le respect de l'arborescence.
-Le nom de ce fichier est : "Splendor_full_project.zip".
-Il y a aussi un ".jar" dans le fichier zip, ce qui est un moyen rapide de jouer au jeu. 
 
-Vous pouvez jouer en version graphique ou console.
-Pour cela, il vous suffit de suivre les explications présentes dans le manuel utilisateur joint avec le projet.
 
-Il est aussi possible de regarder une démonstration du jeu, par le fichier "Partie_démo_Splendor_v_01_08_22.mp4".
+
+
+
+
+
+
+
+
+
+
+
+## How to use the project
+
+The way the app must be used by a customer is listed in the user file.
+
+=> **docs/user.pdf**
+
+
+
+
+
+
+## Implementation choices
+
+All the information about the choices, structures, the path we followed to reach these final result is gathered in the dev document.
+
+=> **docs/dev.pdf**
+
+
+## Optimizations
+
+The optimization we could provide are mainly about the code structure to make it more understandlable.
+
+We could improve the graphical quality of our game which is very basic at the moment.
+
+Moreoever, the IA part could be improved to make smarter choices against the user.
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at dyl.dejesusmilitar@gmail.com
+
+
+
+## Credits
+
+Created by [@Dyl-DJM](https://www.github.com/Dyl-DJM) and [@Nathan772](https://www.github.com/Nathan772).
+
+
