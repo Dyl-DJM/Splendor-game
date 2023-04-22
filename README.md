@@ -35,7 +35,7 @@ The way the app must be used by a customer is listed in the user file.
 
 => **docs/user.pdf**
 
-
+In addition, there is a small video showing the graphical interface we made : https://youtu.be/Iv8C4MyzDCY
 
 
 
@@ -51,7 +51,7 @@ All the information about the choices, structures, the path we followed to reach
 
 The optimization we could provide are mainly about the code structure to make it more understandlable.
 
-We could improve the graphical quality of our game which is very basic at the moment.
+We could improve the graphical quality of our game which is very basic at the moment, and add the commands inside the graphic window instead of the console.
 
 Moreoever, the IA part could be improved to make smarter choices against the user.
 
